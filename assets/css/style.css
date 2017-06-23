@@ -87,6 +87,30 @@ h2{
   background: green; 
 }
 
+#aboutmebox{
+  border-style: solid;
+  border-top: thick double #ff0000;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+#text1{
+  'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 0;
+    padding: 0;
+}
+
+#aboutmepic{
+  float:left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
 #portfolio{
   clear: left;
   float: left;
